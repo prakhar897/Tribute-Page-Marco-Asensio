@@ -1,11 +1,12 @@
-.asen-logo {
-text-align: center;
+.main-container{
+	
 }
 
-.first-line{
-	position: absolute;
-	top:70px;
+.heading {
+	font-family:Amaranth;
 }
+
 
 .main-pic {
+	margin-bottom:20px;
 }
